@@ -1,22 +1,17 @@
 # Exploratory-data-analysis
 
-# The Project Scenario
+ABOUT DATASET
+This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether a patient has diabetes based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
 
-# Overview
-In this project, you will step into the shoes of an entry-level data analyst at an online retail company, helping interpret real-world data to help make key business decisions.
+COLUMN DESCRIPTION FOR DIABETES DATA:
+• Pregnancies
+• Glucose
+• Blood Pressure
+• Skin Thickness
+• Insulin
+• BMI
+• Diabetes
+• Age
+• Outcome
 
-# Project Scenario
-In this project, you will be working with transactional data from an online retail store. The dataset contains information about customer purchases, including product details, quantities, prices, and timestamps. Your task is to explore and analyze this dataset to gain insights into the store's sales trends, customer behavior, and popular products. 
-
-By conducting exploratory data analysis, you will identify patterns, outliers, and correlations in the data, allowing you to make data-driven decisions and recommendations to optimize the store's operations and improve customer satisfaction. Through visualizations and statistical analysis, you will uncover key trends, such as the busiest sales months, best-selling products, and the store's most valuable customers. Ultimately, this project aims to provide actionable insights that can drive strategic business decisions and enhance the store's overall performance in the competitive online retail market.
-
-# Project Objectives
-
-* Describe data to answer key questions to uncover insights
-* Gain valuable insights that will help improve online retail performance
-* Provide analytic insights and data-driven recommendations
-
-# Your Challenge
-Your challenge will be to conduct an exploratory data analysis to help make key business decisions. To do this, you will load, clean, process, analyze, and visualize data. You will also pose questions, and seek to answer them meaningfully using the dataset provided.
-In this project, we'll use a data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.
-After you perform your analysis, you will share your findings.
+From the data set in the (.csv) File We can find several variables, some of them are independent (several medical predictor variables) and only one target dependent variable (Outcome).
